@@ -79,3 +79,103 @@ Sin embargo solo una de ellas se dispuso a ayudarme con la parte de “Preguntas
 
 ![Con titulo](assets/images/rtpaStake.PNG "titulo")
 
+Aquí las preguntas y respuestas:
+
+* **¿Cómo surgió la idea de alquilar vestidos por Facebook?**
+ 
+    Usé el servicio y me pareció que respondía a una necesidad del mercado y q por lo tanto era un negocio con potencial
+
+* **¿De qué edades son la mayoría de sus clientas?**
+
+    Edades diversas, la mayoría tal vez en sus 20s y 30s
+
+* **¿Para qué ocasión es que se alquilan más los vestidos? ¿En qué meses?**
+
+    Tenemos pocos meses de operar por lo que no es posible comparar meses, se alquilan sobre todo para bodas.
+
+* **¿Si quiero alquilar un vestido cuál es el proceso que debo seguir?**
+
+   Sacar cita, elegir, pagar, devolver.
+
+* **¿Cuál es el promedio del costo de alquiler de un vestido?**
+
+     190 soles
+
+* **¿Alguna vez han pensado en llevar los vestidos a la clienta para que se los pruebe en la comodidad de su casa?** 
+
+    Si
+* **Si la respuesta fue afirmativa, ¿por qué no lo implementan?** 
+
+    Recien estamos empezando, tal vez en el futuro.
+* **Si la respuesta fue no, ¿por qué?**
+
+* **¿Qué otro tipo de medio social/digital utilizan para hacer más conocida su empresa?**
+
+    Instagram.
+
+* **¿La campaña digital de los productos cuánta aceptación tiene?**
+
+    Solo es digital.
+
+* **¿Cuál es el ratio de conversión de visitantes de la página a reserva de cita? ¿De reserva de cita a alquiler?**
+
+     No hemos hecho ese analisis aún.
+
+Siguiendo con el plan de investigación, se realizaron encuestas, entrevistas y benchmarking para poder entender la necesidad a satisfacer.
+
+### **Encuestas**
+
+Se obtuvieron 20 respuestas que ayudaron a definir (más adelante) nuestro User Persona.
+
+Aquí las preguntas:
+
+![Con titulo](assets/images/encuesta1.PNG "titulo")
+![Con titulo](assets/images/encuesta2.PNG "titulo")
+![Con titulo](assets/images/encuesta3.PNG "titulo")
+![Con titulo](assets/images/encuesta4.PNG "titulo")
+![Con titulo](assets/images/encuesta5.PNG "titulo")
+
+Aquí algunas respuestas que pueden ser calificadas de forma numérica:
+
+![Con titulo](assets/images/edad.PNG "titulo")
+![Con titulo](assets/images/preferencia.PNG "titulo")
+![Con titulo](assets/images/ocasión.PNG "titulo")
+![Con titulo](assets/images/frecuencia.PNG "titulo")
+![Con titulo](assets/images/frecuencia2.PNG "titulo")
+![Con titulo](assets/images/precio.PNG "titulo")
+![Con titulo](assets/images/tiempo.PNG "titulo")
+![Con titulo](assets/images/nps.PNG "titulo")
+
+En el caso de las preguntas "¿Cuántos vestidos te pruebas antes de alquilar/comprar? y ¿cuántas tiendas visitas antes de comprar/alquilar?" solo se observan 6 respuestas ya que se agregaron después de sacar el survey al público. Se agregaron después porque sabía que me iban a dar un insight muy importante para poder entender la necesidad.
+
+### **Entrevistas**
+
+Se realizaron 3 entrevistas presenciales con la siguiente guía de entrevista:
+
+
+
+
+### **Benchmarking**
+
+Se realizó el benchmarking de los negocios/empresas que están en el sector de alquiler pero sobretodo los que están en Facebook, tales como:
+
+* Glam’Hour. (https://www.facebook.com/glamhourperu/)
+
+* Dress2Go. (https://www.facebook.com/Dress2GoPeru/)
+
+* Festana. (https://www.facebook.com/festanavestidos/)
+
+* Sfilata. (https://www.facebook.com/sfilata.alquilerdevestidos/)
+
+* El Armario. (https://www.facebook.com/ElArmarioVestidos/)
+
+![Con titulo](assets/images/Benchmarking.png "titulo")
+
+**Outputs** 
+
+* Los 5 negocios ofrecen poder reservar tu vestido e ir a probárselo a tienda, pagar con efectivo, POS y entalle.
+* Solo dos negocios ofrecen llevar y recoger el vestido a la dirección que brindes.
+* En solo dos negocios tienes la posibilidad de comprar el vestido si es que así lo deseas.
+* 4 negocios incluyen lavandería y asesoría dentro del precio del alquiler.
+* Solo un negocio ofrece alquilar vestidos desde $50 USD, a pesar de que en los demás negocios su publicidad diga que puedes alquilar desde ese precio.
+
