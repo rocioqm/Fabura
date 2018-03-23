@@ -257,9 +257,41 @@ Fabura promete revolucionar la búsqueda del vestido ideal para ese evento tan e
 
 ## Prototipado
 
+### Prototipo en papel:
+
 Se realizó un único solo prototipo de papel, el cual fue testeado con dos persona. Este prototipo en papel tenía las opciones iniciales de alquilar desde un inicio, es decir, sin que te los pruebes y también la de reserva con la opción de que te los puedan llevar a casa o te los pruebas en tienda. 
 
+![Con titulo](assets/images/papel1.jpeg "titulo")
+![Con titulo](assets/images/papel2.jpeg "titulo")
+![Con titulo](assets/images/papel3.jpeg "titulo")
+![Con titulo](assets/images/papel4.jpeg "titulo")
 
+* **Feedback**
 
+  * Usuaria 1: Me gusta el filtro, me gusta que se pueda pagar con tarjeta y que puedan llevarlo a mi casa para probármelo. Quisiera poder ver también accesorios.
 
+  * Usuaria 2: Desearía poder tener un espacio donde preguntar y/o hacer consultas.
 
+### Prototipo en alta fidelidad: Fabura V1.0
+
+https://marvelapp.com/640af76/
+
+Se realizó el primer prototipo digital que fue testeado con 3 personas para luego crear una nueva versión de Fabura.
+
+![Con titulo](assets/images/fabura1.PNG "titulo")
+
+* **Feedback**
+
+![Con titulo](assets/images/user1.PNG "titulo")
+![Con titulo](assets/images/user2.PNG "titulo")
+![Con titulo](assets/images/user2.1.PNG "titulo")
+![Con titulo](assets/images/user2.2.PNG "titulo")
+![Con titulo](assets/images/user3.PNG "titulo")
+
+### Prototipo en alta fidelidad: Fabura V2.0
+
+Con el feedback recibido se pudo mejorar el prototipo para unsa segunda versión.
+
+https://marvelapp.com/324gg7a/
+
+![Con titulo](assets/images/fabura-inicio.PNG "titulo")
