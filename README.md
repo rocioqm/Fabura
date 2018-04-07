@@ -2,7 +2,7 @@
 
 Fabura es una aplicación móvil en la cual podrás reservar de 2 a 6 vestidos elegantes para que te los podamos llevar a tu casa para que te los pruebes o puedas probártelos en tienda. 
 
-![Con titulo](assets/images/fabura-inicio.PNG "titulo")
+![Con titulo](assets/images/index.PNG "titulo")
 
 ## Reto 
 
